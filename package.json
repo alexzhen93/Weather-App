@@ -1,0 +1,31 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Full Stack React weather App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexzhen93/Weather-App.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Alex Zhen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexzhen93/Weather-App/issues"
+  },
+  "homepage": "https://github.com/alexzhen93/Weather-App#readme",
+  "devDependencies": {
+    "concurrently": "^5.1.0",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "pg": "^7.18.2"
+  }
+}
